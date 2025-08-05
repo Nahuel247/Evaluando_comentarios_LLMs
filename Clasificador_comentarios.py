@@ -193,7 +193,7 @@ tokenizer.save_pretrained("./fine_tuned_model")
 
 
 #############################
-# PRUEBA DE PREDICCIÓN
+# PASO A PRODUCCIÓN
 #############################
 
 sample_texts = [
@@ -214,3 +214,4 @@ labels_map = {0: "NEGATIVE", 1: "POSITIVE"}
 for i, pred in enumerate(predictions):
     print(f"\n Review: {sample_texts[i]}")
     print(f" Predicted sentiment: {labels_map[pred.item()]}")
+
