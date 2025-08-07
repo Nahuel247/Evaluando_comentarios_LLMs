@@ -1,6 +1,6 @@
 # Clasificación de Comentarios con un Modelo LLM (BERT + Hugging Face)
 
-Este proyecto se entrena e implementa un modelo de lenguaje (LLM) para clasificar comentarios como positivos o negativos, utilizando el dataset de IMDb. Se hace uso de la librería `transformers` de Hugging Face y PyTorch para realizar el fine-tuning del modelo `bert-base-uncased`.
+Este proyecto se entrena e implementa un modelo de lenguaje (LLM) para clasificar comentarios como positivos o negativos, utilizando el dataset de IMDb para entrenar al modelo. Se hace uso de la librería `transformers` de Hugging Face y PyTorch para realizar el fine-tuning del modelo `bert-base-uncased`.
 
 ## Objetivo
 
