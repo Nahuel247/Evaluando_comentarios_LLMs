@@ -40,6 +40,9 @@ Los resultados en entrenamiento y testeo muestran una alta capacidad del modelo 
 
 Una vez entrenado el modelo, puedes clasificar nuevos comentarios como se muestra en el ejemplo al final del script. Se utiliza `argmax` sobre los logits para obtener la clase más probable (positiva o negativa).
 
+![5 implementacion](https://github.com/user-attachments/assets/9473791a-6ae8-41cc-a1f1-ad574a169717)
+
+
 ## Requisitos
 
 - Python 3.8+
