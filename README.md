@@ -26,7 +26,8 @@ Para entender y ejecutar este proyecto, es importante manejar los siguientes con
 - **Exportación**: Guarda modelo y tokenizer fine-tuneados para uso posterior
 
 
-Los resultados en entrenamiento y testeo muestran una alta capacidad del modelo para identificar si un comentario es positivo o negativo. 
+Los resultados en entrenamiento y testeo muestran una alta capacidad del modelo para identificar si un comentario es positivo o negativo.
+
 ![4 report](https://github.com/user-attachments/assets/4435ea33-3013-485e-bc6c-a014f5a71c5c)
 
 ## Archivos Incluidos
